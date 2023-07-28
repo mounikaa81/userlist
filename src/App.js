@@ -19,13 +19,13 @@ const userDetailsList = [
     uniqueNo: 3,
 
     imageUrl: 'https://assets.ccbp.in/frontend/react-js/devon-lane-img.png',
-    name: 'Mounika',
+    name: 'Sivani',
     role: 'Software Developer',
   },
   {
     uniqueNo: 4,
     imageUrl: 'https://assets.ccbp.in/frontend/react-js/jacob-jones-img.png',
-    name: 'Mounika',
+    name: 'Nagamani',
     role: 'Software Developer',
   },
 ]
